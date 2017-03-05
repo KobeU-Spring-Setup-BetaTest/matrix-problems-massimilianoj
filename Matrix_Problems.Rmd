@@ -1,0 +1,117 @@
+---
+title: "Matrix_Problems"
+author: "Massimiliano Porto"
+date: "04 marzo 2017"
+output: pdf_document
+---
+
+#Multiplication
+
+##Multiplication by scalars
+
+$[cA]_{ij}$
+
+$$
+2
+\begin{bmatrix}
+ 3 & -2 & 4 \\
+ 1 & 2 & 1 \\
+ 6 & 4 & 4 \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+ \dots & \dots & \dots \\
+ \dots & \dots & \dots \\
+ \dots & \dots & \dots \\
+\end{bmatrix}
+$$
+
+##Matrix multiplication
+
+Multiply A by B
+
+$$
+A =
+\begin{bmatrix}
+ 3 & -1 \\
+ 5 & 2 \\
+\end{bmatrix}
+\times
+B =
+\begin{bmatrix}
+ 2 & -2 \\
+ 0 & 0 \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+ \dots & \dots \\
+ \dots & \dots \\
+\end{bmatrix}
+$$
+
+Multiply A by C
+
+$$
+A =
+\begin{bmatrix}
+ 3 & -1 \\
+ 5 & 2 \\
+\end{bmatrix}
+\times
+C =
+\begin{bmatrix}
+ 2 & -2 & 4\\
+ 0 & 0 & 0 \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+ \dots & \dots & \dots \\
+ \dots & \dots & \dots \\
+\end{bmatrix}
+$$
+
+
+#Summation
+
+##Sum A and B
+
+$$
+A =
+\begin{bmatrix}
+  1 & 2 \\
+  -4 & 3 \\
+\end{bmatrix}
++
+B = 
+\begin{bmatrix}
+ 2 & 3 \\
+ 3 & 5 \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+ \dots & \dots \\
+ \dots & \dots \\
+\end{bmatrix}
+$$
+
+
+##Sum C and D
+
+$$
+C = 
+\begin{bmatrix}
+ 2 & 4 & -1 \\
+ 1 & 3 & 2 \\
+\end{bmatrix}
++
+D =
+\begin{bmatrix}
+ 1 & -1 & 3 \\
+ -2 & 2 & -3 \\
+\end{bmatrix}
+=
+$$
+
+
+ 
+ 
